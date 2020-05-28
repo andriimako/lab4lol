@@ -4,7 +4,7 @@ public class User {
     private String name, lastName;
 
 
-    public User(String email){
+    public User(String email){ //this is a guest user
         this.email = email;
     }
 
